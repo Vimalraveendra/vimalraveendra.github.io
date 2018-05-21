@@ -18,6 +18,8 @@ h1{
 	width:400px;
 	text-align: center;
 	box-shadow: 4px 4px 5px #888888;
+	position:sticky;
+	top:0px;
 }
 
 img{
@@ -26,6 +28,8 @@ img{
 	margin:10px;
 	transition: all 1s;
 	margin-top:10px;
+
+
 
 }
 
